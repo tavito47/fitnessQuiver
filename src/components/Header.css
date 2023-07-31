@@ -1,0 +1,30 @@
+#banner{
+    background-image: url(../assets/img/navbar/baner.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;/**para repetir en varias imagenes*/
+    background-size: cover; /**Amplia la imagen*/
+    margin-top: -56px; /* para mover la imagen**/
+}
+
+#revo{
+    
+    font-family: SF Pro Bold;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 500px;
+}
+.container{
+    margin: auto !important;
+}
+
+.container1{
+    display: inline-block;
+    position: relative;
+}
+
+.container1>div{
+    display: inline-block;
+    margin: auto;
+}
