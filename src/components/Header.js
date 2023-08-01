@@ -113,6 +113,7 @@ export default function Header() {
         /******************************SECTION 2 */ 
         /SF Pro Display Bold 16
         About 
+        
         /SF Pro Display Regular 16 
         Founded in 2017, Quiver Fitness helps
         everyone from the occasional gym-goer to the fitness enthusiast train

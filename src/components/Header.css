@@ -1,57 +1,58 @@
-#banner{
-    background-image: url(../assets/img/navbar/baner.png);
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;/**para repetir en varias imagenes*/
-    background-size: cover; /**Amplia la imagen*/
-    margin-top: -56px; /* para mover la imagen**/
+#banner {
+  background-image: url(../assets/img/navbar/baner.png);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat; /**para repetir en varias imagenes*/
+  background-size: cover; /**Amplia la imagen*/
+  margin-top: -56px; /* para mover la imagen**/
 }
-.back{
-    background: transparent !important;
-    position: fixed !important;
-    top: 0;
-    width: 100%;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-
+.back {
+  background: transparent !important;
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
 }
-.container-fluid{
-    
-    width: max-content !important;
-    
+.container-fluid {
+  width: max-content !important;
 }
 
-#revo{
-    
-    font-family: SF Pro Bold;
-    display: flex;
-    justify-content: center;
-    align-items:center ;
-    height: 500px;
+#revo {
+  font-family: SF Pro Bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
 }
-.container{
-    margin: auto !important;
-}
-
-.container1{
-    display: inline-block;
-    position: relative;
+.container {
+  margin: auto !important;
 }
 
-.container1>div{
-    display: inline-block;
-    margin: auto;
+.container1 {
+  display: inline-block;
+  position: relative;
 }
 
-.izqAbout{
-    background-image: url(../assets/img/section/section2.1.png);
-    height: 420%;
-    background-repeat: no-repeat;
+.container1 > div {
+  display: inline-block;
+  margin: auto;
 }
-.derAbout{
-    
-    background-color: yellow;
-    height: 100%;
-    
+
+.izqAbout {
+  background-image: url(../assets/img/section/section2.1.png);
+  height: 420%;
+  background-repeat: no-repeat;
+}
+
+
+.parrafoDer{
+    color: white;
+    text-align: justify;
+    font-family: SF Pro Regular;
+}
+.parrafoIzq{
+    font-family: SF Pro Regular;
+    text-align: center;
 }
