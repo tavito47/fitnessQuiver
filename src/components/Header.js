@@ -8,7 +8,7 @@ export default function Header() {
     <>
       {/*  <div class="navbar">
       <div class="row"> */}
-      <nav class="navbar navbar-expand-lg">
+      <nav class="navbar navbar-expand-lg back" >
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
             <img src={logo} alt="FitnessQuiver" width="70" height="24" />
@@ -112,15 +112,19 @@ export default function Header() {
 
         /******************************SECTION 2 */ 
         /SF Pro Display Bold 16
-        About /SF Pro Display Regular 16 Founded in 2017, Quiver Fitness helps
+        About 
+        /SF Pro Display Regular 16 
+        Founded in 2017, Quiver Fitness helps
         everyone from the occasional gym-goer to the fitness enthusiast train
         better and more efficiently. Frustrated by subscription sites with bland
         content, super expensive personal trainers, and the abundance of
         ineffective free videos online, we created the first peer-to-peer
         searchable fitness platform that features instructional content from
-        Trainers around the world. We make it simple for Members to browse,
-        discover, pay, and start working out. Members Our catalog of
-        high-quality instructional fitness videos is for everyone from the
+        Trainers around the world. We make it simple for 
+        Members to browse, discover, pay, and start working out.
+         
+        Members 
+        Our catalog of high-quality instructional fitness videos is for everyone from the
         fitness novice to the experienced athlete. We work with the best
         Personal Trainers around the world to ensure that each video yields
         results. Whether you want to target a specific muscle group or are in

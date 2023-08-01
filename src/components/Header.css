@@ -6,6 +6,21 @@
     background-size: cover; /**Amplia la imagen*/
     margin-top: -56px; /* para mover la imagen**/
 }
+.back{
+    background: transparent !important;
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+.container-fluid{
+    
+    width: max-content !important;
+    
+}
 
 #revo{
     
@@ -27,4 +42,16 @@
 .container1>div{
     display: inline-block;
     margin: auto;
+}
+
+.izqAbout{
+    background-image: url(../assets/img/section/section2.1.png);
+    height: 420%;
+    background-repeat: no-repeat;
+}
+.derAbout{
+    
+    background-color: yellow;
+    height: 100%;
+    
 }
