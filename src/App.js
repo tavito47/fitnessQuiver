@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import './fonts/fonts.css'
 import Vista from './components/Vista';
 import About from './components/About';
+import Work from './components/Work';
+import Pricing from './components/Pricing';
 
 function App() {
   return (
@@ -17,6 +19,9 @@ function App() {
     <Header/>
     <Vista/>
     <About/>
+    <Work/>
+
+    <Pricing/>
     <Footer/>
     </>
   );

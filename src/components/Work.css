@@ -1,0 +1,36 @@
+.titulo{
+    margin: 60px;
+    font-family: SF Pro Bold;
+}
+
+.parrafo1{
+    font-family: SF Pro Regular;
+    border: 5px solid #842323; /* Solo para visualizar el contenedor */
+}
+
+.parrafo2{
+    font-family: SF Pro Regular;
+    display: flex;
+    flex-direction: column; /* Para apilar los párrafos verticalmente */
+    align-items: center; /* Para centrar horizontalmente */
+    justify-content: center; /* Para centrar verticalmente */
+    height: 100%; /* Puedes ajustar la altura según tus necesidades */
+    border: 5px solid #842323; /* Solo para visualizar el contenedor */
+    
+}
+
+/* .num4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.num5
+    {
+      
+      }
+  
+
+ */
+

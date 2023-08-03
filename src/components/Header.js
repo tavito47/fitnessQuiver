@@ -136,15 +136,32 @@ export default function Header() {
         How it Works 
 
         /SF Pro Display Regular 16 
-        Download the
-        free iOS app from the App Store. Register as a new Member. Browse by
-        workout type and filter by difficulty level, length, muscles targeted,
-        trainer location, and language spoken. Preview any video for free,
-        adding those that best fit your criteria to your Favorites. Purchase
-        individual videos for $2.50 each. A one-time payment gets you unlimited
-        views. Rank and review completed workouts, read more about the trainers,
-        and recommend your favorites to friends. Easily share your
-        accomplishments on social media for extra props.
+
+        Download the free iOS app from 
+        the App Store. Register as a new 
+        Member. 
+        
+        Browse by workout type and filter 
+        by difficulty level, length, muscles 
+        targeted,trainer location, and 
+        language spoken. 
+        
+        Preview any video for free, adding 
+        those that best fit your criteria to 
+        your Favorites. 
+        
+        Purchase individual videos for 
+        $2.50 each. A one-time payment 
+        gets you unlimited views. 
+        
+        Rank and review completed 
+        workouts, read more about the 
+        trainers, and recommend 
+        your favorites to friends. Easily 
+        share your accomplishments on 
+        social media for extra 
+        props.
+        
         /*******************************SECTION 4 */ /SF Pro Display Bold 20
         Trainers /SF Pro Display Regular 16 We’ve created the first platform
         that allows Personal Trainers to showcase their talent and get paid

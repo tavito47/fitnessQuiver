@@ -40,9 +40,12 @@
   margin: auto;
 }
 
+
+
+/************  About **/
 .izqAbout {
   background-image: url(../assets/img/section/section2.1.png);
-  height: 420%;
+  height: 100%;
   background-repeat: no-repeat;
 }
 
@@ -56,3 +59,7 @@
     font-family: SF Pro Regular;
     text-align: center;
 }
+
+
+
+

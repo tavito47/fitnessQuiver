@@ -8,8 +8,8 @@ import tw from "../assets/img/footer/twitter.png";
 function Footer() {
   return (
     <section>
-      <div className="contaniner">
-        <div className="row text-center">
+      <div className="contaniner ">
+        <div className="row text-center ">
           <div className="col-6">
             <div className="logo">
               <a>
