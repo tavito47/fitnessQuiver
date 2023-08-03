@@ -15,12 +15,12 @@ function Footer() {
               <a>
                 <img src={pieLogo} />
               </a>
-              <p>2017</p>
+              <p class="text-white">2017</p>
             </div>
           </div>
           <div className="col-6">
             <div className="izq">
-              <p>Follow us @quiverfitness</p>
+              <p class="text-white">Follow us @quiverfitness</p>
 
               <a>
                 <img src={fb} />
