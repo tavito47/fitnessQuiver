@@ -5,35 +5,36 @@ import '../components/Work.css'
 function Work() {
   return (
     <section>
-      <div class="containerWork text-center">
+      <div class="containerWork ">
         <div class="row">
-          <h5 class="titulo">How it Works</h5>
+          <h5 class="titulo text-center">How it Works</h5>
           <div class="col">
-            <div class="parrafo1">
-              <div>
+            <div class="parrafo1 text-right">
+              <div class="">
                 <p>
-                  Download the free iOS app from the App Store. Register as a
-                  new Member.
+                  Download the free iOS app from <br/>
+                  the App Store. Register as a
+                  new <br/>Member.
                 </p>
               </div>
 
               <div>
                 <p>
-                  Browse by workout type and filter by difficulty level, length,
-                  muscles targeted,trainer location, and language spoken.
+                  Browse by workout type and filter <br/>by difficulty level, length,
+                  muscles<br/> targeted,trainer location, and <br/>language spoken.
                 </p>
               </div>
 
               <div>
                 <p>
-                  Preview any video for free, adding those that best fit your
-                  criteria to your Favorites.
+                  Preview any video for free, adding <br/>those that best fit your
+                  criteria to <br/>your Favorites.
                 </p>
               </div>
             </div>
           </div>
           <div class="col">
-            <div>
+            <div class="foto">
               <img src={phone} />
             </div>
           </div>
@@ -41,15 +42,15 @@ function Work() {
             <div class="parrafo2">
                 <div class="num4">
                 <p>
-                    Purchase individual videos for $2.50 each. A one-time payment
+                    Purchase individual videos for<br/> $2.50 each. A one-time payment<br/>
                     gets you unlimited views.
                 </p>
                 </div>
                 <div class="num5">
                 <p>
-                    Rank and review completed workouts, read more about the
-                    trainers, and recommend your favorites to friends. Easily share
-                    your accomplishments on social media for extra props.
+                    Rank and review completed <br/>workouts, read more about the<br/>
+                    trainers, and recommend <br/>your favorites to friends. Easily <br/>share
+                    your accomplishments on <br/>social media for extra <br/>props.
                 </p>
                 </div>
             </div>

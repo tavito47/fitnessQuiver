@@ -162,8 +162,11 @@ export default function Header() {
         social media for extra 
         props.
         
-        /*******************************SECTION 4 */ /SF Pro Display Bold 20
-        Trainers /SF Pro Display Regular 16 We’ve created the first platform
+        /*******************************SECTION 4 */ 
+        /SF Pro Display Bold 20
+        Trainers 
+        /SF Pro Display Regular 16 
+        We’ve created the first platform
         that allows Personal Trainers to showcase their talent and get paid
         directly for their work. /SF Pro Display Bold 20 Become a Trainer /SF
         Pro Display Regular 14 Email us at info@quiverfitness.com and tell us
@@ -173,13 +176,31 @@ export default function Header() {
         your profile information with your gym or company name, website, bio,
         location, and social media accounts. Upload instructional video content,
         filling in all required fields. Start to grow your following and your
-        business right away. /************************************SECTION 5 */
-        /SF Pro Display Bold 20 Pricing /SF Pro Display Bold 20 Members Trainers
-        Basic Trainers Plus /SF Pro Display light 16 Browse and preview. Upload
-        up to 50 videos per month Upload up to 100 videos Buy any workout you
+        business right away. 
+        /************************************SECTION 5 */
+        /SF Pro Display Bold 20 
+        Pricing 
+        /SF Pro Display Bold 20 
+        Members Trainers
+        Basic Trainers Plus 
+        
+        /SF Pro Display light 16 
+        
+        Browse and preview. 
+        
+        Upload up to 50 videos per month 
+        
+        Upload up to 100 videos Buy any workout you
         per month. Get your like for $ 2.50. workouts featured
-        /*********************************SECTION 6 */ /SF Pro Display Bold 20
-        Frequently Asqued Questions /SF Pro Display Medium 16 What devices is
+
+        /*********************************SECTION 6 */ 
+        
+        /SF Pro Display Bold 20
+        Frequently Asqued Questions 
+        
+        /SF Pro Display Medium 16 
+        
+        What devices is
         Quiver Fitness currently available on? When I purchase a video, do I
         only get to see it one time? How do I sign up to be a Personal Trainer
         on Quiver Fitness? How much can I charge for my videos on Quiver

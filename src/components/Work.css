@@ -1,22 +1,43 @@
+.containerWork{
+    border: 5px solid #ee0101;
+}
+
 .titulo{
     margin: 60px;
     font-family: SF Pro Bold;
+    border: 5px solid #c64848;
+    font-size: 17px;
 }
 
 .parrafo1{
+    
     font-family: SF Pro Regular;
-    border: 5px solid #842323; /* Solo para visualizar el contenedor */
+    font-size: 16px;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+    border: 5px solid #438423; /* Solo para visualizar el contenedor */
 }
 
 .parrafo2{
     font-family: SF Pro Regular;
+    font-size: 16px !important;
     display: flex;
     flex-direction: column; /* Para apilar los párrafos verticalmente */
-    align-items: center; /* Para centrar horizontalmente */
+    align-items: left ; /* Para centrar horizontalmente */
     justify-content: center; /* Para centrar verticalmente */
     height: 100%; /* Puedes ajustar la altura según tus necesidades */
-    border: 5px solid #842323; /* Solo para visualizar el contenedor */
+    border: 5px solid #9c5858; /* Solo para visualizar el contenedor */
     
+}
+.foto{
+    border: 5px solid #842323;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 /* .num4{
