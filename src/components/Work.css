@@ -1,14 +1,14 @@
 .containerWork{
-    border: 5px solid #ee0101;
+    /* border: 5px solid #ee0101; */
 }
 .containerW{
     height: 780px;
-    border: 4px solid ;
+    border: 5px solid #ee0101 ;
 }
 .titulo{
     margin: 60px;
     font-family: SF Pro Bold;
-    border: 3px solid #c64848;
+    /* border: 3px solid #c64848; */
     font-size: 17px;
 }
 
@@ -21,7 +21,7 @@
     justify-content: center;
     display: flex;
     height: 100%;
-    border: 3px solid #438423; /* Solo para visualizar el contenedor */
+    /* border: 3px solid #438423; /* Solo para visualizar el contenedor */ 
 }
 
 .parrafo2{
@@ -32,11 +32,11 @@
     align-items: left ; /* Para centrar horizontalmente */
     justify-content: center; /* Para centrar verticalmente */
     height: 100%; /* Puedes ajustar la altura según tus necesidades */
-    border: 3px solid #9c5858; /* Solo para visualizar el contenedor */
+    /* border: 3px solid #9c5858; */ /* Solo para visualizar el contenedor */
     
 }
 .foto{
-    border: 3px solid #842323;
+    /* border: 3px solid #842323; */
     flex-direction: column;
     align-items: center;
     justify-content: center;
