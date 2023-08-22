@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <section className="containerH">
       {/*  <div class="navbar">
-      <div class="row"> */}
+      <div class="row"> */} 
       <nav class="navbar navbar-expand-lg back" >
         <div class="container-fluid">
           <a class="navbar-brand logo" href="#">
