@@ -11,7 +11,7 @@ function Footer() {
       <div className="contaniner ">
         <div className="row text-center ">
           <div className="col-6">
-            <div className="logo">
+            <div className="logoF">
               <a>
                 <img src={pieLogo} />
               </a>
