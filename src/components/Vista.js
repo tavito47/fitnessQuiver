@@ -1,15 +1,16 @@
 import React from "react";
-
+import "./Vista.css"
 import img1 from "../assets/img/section/section1.1.png";
 import img2 from "../assets/img/section/section1.2.png";
 import img3 from "../assets/img/section/section1.3.png";
 function Vista() {
   return (
-    <section>
-      <div className="container text-center">
+    <section className="contenido">
+      <div className="containerV text-center">
         <div className="row">
           <div className="col-12 justific-content-center">
             <div className="container1">
+              
               <div>
                 <div className="fox">
                   <a>
@@ -22,6 +23,7 @@ function Vista() {
                 </div>
                 <p>Get the free iPhone app and sign up</p>
               </div>
+              
             </div>
 
             <div className="container1">
@@ -39,17 +41,17 @@ function Vista() {
             </div>
 
             <div className="container1">
-            <div>
               <div>
-                <a>
-                  <img src={img3} />
-                </a>
+                <div>
+                  <a>
+                    <img src={img3} />
+                  </a>
+                </div>
+                <div>
+                  <h5>Dowload & Register</h5>
+                </div>
+                <p>Get the free iPhone app and sign up</p>
               </div>
-              <div>
-                <h5>Dowload & Register</h5>
-              </div>
-              <p>Get the free iPhone app and sign up</p>
-            </div>
             </div>
           </div>
         </div>

@@ -4,7 +4,7 @@ import '../components/Work.css'
 
 function Work() {
   return (
-    <section>
+    <section className="containerW">
       <div class="containerWork ">
         <div class="row">
           <h5 class="titulo text-center">How it Works</h5>

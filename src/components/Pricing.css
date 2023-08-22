@@ -1,28 +1,29 @@
 .todo{
     /* border: 4px solid #4c3f3f; */
     background-color: #ffdf00;
+    height: 468px;
     
 }
 
 .tituloPricing{
-    border: 4px solid #20cece
+    border: 2px solid #20cece
     ;
 }
 
 .cuadro{
-    border: 4px solid #6d2121;
+    border: 2px solid #6d2121;
     background-color: white;
 }
 
 .cuadro2{
-    border: 4px solid #620a0a;
+    border: 2px solid #620a0a;
     background-color: white;
 
     margin: 281px 293px;
 }
 
 .cuadro3{
-    border: 4px solid #b34b4b;
+    border: 2px solid #b34b4b;
     background-color: white;
 
 }

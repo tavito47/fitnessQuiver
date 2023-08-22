@@ -1,0 +1,13 @@
+.contenido{
+    border: 2px solid rgba(33, 114, 33, 0.533);
+    height: 335px;
+    width: 1440;
+}
+
+.containerV{
+    /* border: 2px solid rgba(2, 255, 2, 0.533); */
+    padding: 62px 282px 87px 282px !important;
+    margin: auto !important;
+    /* display: grid;
+    grid-template-columns: auto; */
+}

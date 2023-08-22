@@ -5,7 +5,7 @@ import logo from "../assets/img/navbar/logo.png";
 import apple from "../assets/img/navbar/appApple.png";
 export default function Header() {
   return (
-    <>
+    <section className="containerH">
       {/*  <div class="navbar">
       <div class="row"> */}
       <nav class="navbar navbar-expand-lg back" >
@@ -85,6 +85,6 @@ export default function Header() {
       </section>
 
       
-    </>
+    </section>
   );
 }
