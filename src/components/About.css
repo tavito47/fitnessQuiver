@@ -1,0 +1,78 @@
+
+/************  About *************/
+
+/* .containerAb{
+    height: 420px;
+  }
+  .izqAbout {
+    background-image: url(../assets/img/section/section2.1.png);
+    height: 100%;
+    background-repeat: no-repeat;
+  }
+  
+  .fondo{
+    background-color: #f3f318;
+  }
+  .parrafoDer{
+      color: white;
+      text-align: justify;
+      font-family: SF Pro Regular;
+  }
+  .parrafoIzq{
+      font-family: SF Pro Regular;
+      text-align: center;
+      padding-top: -6rem ;
+      margin: 131px 230px 97px 83px !important;
+      font-size: 16px;
+      font-family: SF Pro Light;
+  }
+ */
+ .containerAb{
+    height: 420px;
+    /* border: 2px solid #7cb902; */
+    
+ }
+
+ .fondoDer{
+    height: 420px;
+    background-color: #f3f318;
+ }
+
+ .hy5{
+    font-size: 16px;
+    font-family: SF Pro Bold;
+    margin-top: 36px !important;
+    margin-bottom: 35px !important;
+    margin-left: 229px !important;
+    margin-right: 95px !important;
+    line-height: normal!important;
+ }
+
+.hhh6{
+    font-size: 16px;
+    font-family: SF Pro Bold;
+    margin-top: 36px !important;
+    margin-bottom: 35px !important;
+    margin-left: 108px !important;
+    margin-right: 215px !important;
+    line-height: normal!important;
+}
+.fondoIzq{
+    background-image: url(/src/assets/img/section/section2.1.png);
+    width: auto;
+}
+.parrafoIzq{
+    font-size: 16px;
+    margin-left: 229px !important;
+    margin-right: 95px !important;
+    font-family: SF Pro Regular;
+    text-align: left;
+    
+ }
+.parrafoDer{
+    font-size: 16px;
+    margin-left: 109px !important;
+    margin-right: 213px !important;
+    font-family: SF Pro Regular;
+    text-align: left;
+}

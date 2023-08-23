@@ -10,8 +10,9 @@ export default function Header() {
       <div class="row"> */} 
       <nav class="navbar navbar-expand-lg back" >
         <div class="container-fluid">
+          
           <a class="navbar-brand logo" href="#">
-            <img src={logo} alt="FitnessQuiver"/>
+            <img className="ubicar" src={logo} alt="FitnessQuiver"/>
           </a>
           <button
             class="navbar-toggler"
@@ -65,14 +66,14 @@ export default function Header() {
             <div class="col-6" typeof="text">
               <div id="revo">
                 <div>
-                  <h1 className="text-white">
+                  <h1 className="titulo1 text-white">
                     Revolutionizing fitness. <br /> One instructional video{" "}
                     <br />
                     at a time
                   </h1>
                   <div id="apple">
                     <a class="navbar-brand" href="!#">
-                      <img src={apple} alt="" />
+                      <img className="aple" src={apple} alt="" />
                     </a>
                   </div>
                 </div>

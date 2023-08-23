@@ -1,13 +1,15 @@
 import React from "react";
+import "./About.css";
 import members from "../assets/img/section/section2.1.png";
 function About() {
   return (
-    <section>
+    <section className="containerAb">
       <div className="containerAb text-center">
         <div className="row">
-          <div className="col">
+
+          <div className="col fondoDer">
             <div className="derAbout">
-              <h5 class="text-start ">About</h5>
+              <h5 class="hy5 text-start ">About</h5>
               <p class="parrafoIzq">
                 Founded in 2017, Quiver Fitness helps everyone from the
                 occasional gym-goer to the fitness enthusiast train better and
@@ -21,10 +23,11 @@ function About() {
               </p>
             </div>
           </div>
-          <div className="col">
+
+          <div className="col fondoIzq">
             <div className="izqAbout">
-              <h5 class="text-start text-white">Members</h5>
-              <p class="parrafoDer">
+              <h5 class="hhh6 text-start text-white">Members</h5>
+              <p class="parrafoDer text-white">
                 Our catalog of high-quality instructional fitness videos is for
                 everyone from the fitness novice to the experienced athlete. We
                 work with the best Personal Trainers around the world to ensure
@@ -34,6 +37,7 @@ function About() {
               </p>
             </div>
           </div>
+
         </div>
       </div>
     </section>
