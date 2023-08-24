@@ -7,21 +7,19 @@ import tw from "../assets/img/footer/twitter.png";
 
 function Footer() {
   return (
-    <section>
+    <section class="footerF">
       <div className="contaniner ">
         <div className="row text-center ">
+
           <div className="col-6">
             <div className="logoF">
-              <a>
                 <img src={pieLogo} />
-              </a>
               <p class="text-white">2017</p>
             </div>
           </div>
           <div className="col-6">
             <div className="izq">
               <p class="text-white">Follow us @quiverfitness</p>
-
               <a>
                 <img src={fb} />
                 <img src={ins} />
