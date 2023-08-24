@@ -7,7 +7,7 @@ function Work() {
     <section className="containerW">
       <div class="containerWork ">
         <div class="row">
-          <h5 class="titulo text-center">How it Works</h5>
+          <h5 class="tituloWork text-center">How it Works</h5>
           <div class="col">
             <div class="parrafo1 text-right">
               <div class="">

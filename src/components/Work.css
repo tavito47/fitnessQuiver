@@ -1,9 +1,11 @@
 
 .containerW{
     height: 780px;
-    border: 5px solid #ee0101 ;
+    /* border: 5px solid #ee0101 ; */
 }
-.titulo{
+.tituloWork{
+    margin-top: 70px !important;
+    margin-bottom: 62px !important;
     margin: 60px;
     font-family: SF Pro Bold;
     /* border: 3px solid #c64848; */
