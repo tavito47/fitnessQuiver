@@ -2,7 +2,13 @@
   height: 542px;
   /* border: 5px solid #cd0abc;; */
 }
-
+.soyul{
+  display: flex;
+  align-items: center;
+  /* background: red; */
+  height: 24px;
+  gap: 110px;
+}
 .nav-item{
   flex: 1 !important;
   order: 2 !important;
@@ -31,17 +37,22 @@
 }
 
 .back {
+  
   background: transparent !important;
   position: absolute !important;
   top: 0;
   width: 100%;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
+  
+  margin: 27px 14% 0 14.5% !important;
+
 }
 
 .container-fluid {
-  width: max-content !important;
+  width: 100% !important;
+  max-width: 990px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #revo {

@@ -1,6 +1,6 @@
 import React from "react";
 import phone from "../assets/img/section/section3.1.png";
-import '../components/Work.css'
+import "../components/Work.css";
 
 function Work() {
   return (
@@ -12,23 +12,26 @@ function Work() {
             <div class="parrafo1 text-right">
               <div class="">
                 <p>
-                  Download the free iOS app from <br/>
-                  the App Store. Register as a
-                  new <br/>Member.
+                  Download the free iOS app from <br />
+                  the App Store. Register as a new <br />
+                  Member.
                 </p>
               </div>
 
               <div>
                 <p>
-                  Browse by workout type and filter <br/>by difficulty level, length,
-                  muscles<br/> targeted,trainer location, and <br/>language spoken.
+                  Browse by workout type and filter <br />
+                  by difficulty level, length, muscles
+                  <br /> targeted,trainer location, and <br />
+                  language spoken.
                 </p>
               </div>
 
               <div>
                 <p>
-                  Preview any video for free, adding <br/>those that best fit your
-                  criteria to <br/>your Favorites.
+                  Preview any video for free, adding <br />
+                  those that best fit your criteria to <br />
+                  your Favorites.
                 </p>
               </div>
             </div>
@@ -40,19 +43,26 @@ function Work() {
           </div>
           <div class="col">
             <div class="parrafo2">
-                <div class="num4">
+              <div class="num4">
                 <p>
-                    Purchase individual videos for<br/> $2.50 each. A one-time payment<br/>
-                    gets you unlimited views.
+                  Purchase individual videos for
+                  <br /> $2.50 each. A one-time payment
+                  <br />
+                  gets you unlimited views.
                 </p>
-                </div>
-                <div class="num5">
+              </div>
+              <div class="num5">
                 <p>
-                    Rank and review completed <br/>workouts, read more about the<br/>
-                    trainers, and recommend <br/>your favorites to friends. Easily <br/>share
-                    your accomplishments on <br/>social media for extra <br/>props.
+                  Rank and review completed <br />
+                  workouts, read more about the
+                  <br />
+                  trainers, and recommend <br />
+                  your favorites to friends. Easily <br />
+                  share your accomplishments on <br />
+                  social media for extra <br />
+                  props.
                 </p>
-                </div>
+              </div>
             </div>
           </div>
         </div>
