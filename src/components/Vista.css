@@ -1,5 +1,14 @@
 .contenido{
     height: 335px;
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
     
 }
 
+.containerV{
+    border: 1px solid;
+    gap: 110px !important;  
+    display: flex !important;
+    align-items: center !important;
+}

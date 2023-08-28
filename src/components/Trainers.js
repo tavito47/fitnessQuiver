@@ -8,7 +8,7 @@ export default function () {
     <section class="trainers">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col izqAlin">
+          <div class="col iz\ Alin">
             <div class="tituloTra">
               <h3 class="tituloTrai">Trainers</h3>
             </div>
