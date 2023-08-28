@@ -79,18 +79,33 @@
         /*******************************SECTION 4 */ 
         /SF Pro Display Bold 20
         Trainers 
+
         /SF Pro Display Regular 16 
         We’ve created the first platform
         that allows Personal Trainers to showcase their talent and get paid
-        directly for their work. /SF Pro Display Bold 20 Become a Trainer /SF
-        Pro Display Regular 14 Email us at info@quiverfitness.com and tell us
+        directly for their work. 
+
+        /SF Pro Display Bold 20 Become a Trainer
+         
+        /SF Pro Display Regular 14 
+
+        Email us at info@quiverfitness.com and tell us
         more about yourself and your experience in the fitness industry. Please
-        include links to relevant online content. Once you receive your
-        invitation to join Quiver Fitness, set up a Trainer account. Personalize
+        include links to relevant online content. 
+        
+        Once you receive your
+        invitation to join Quiver Fitness, set up a Trainer account. 
+        
+        Personalize
         your profile information with your gym or company name, website, bio,
-        location, and social media accounts. Upload instructional video content,
-        filling in all required fields. Start to grow your following and your
+        location, and social media accounts. 
+        
+        Upload instructional video content,
+        filling in all required fields. 
+        
+        Start to grow your following and your
         business right away. 
+
         /************************************SECTION 5 */
         /SF Pro Display Bold 20 
         Pricing 

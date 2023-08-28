@@ -1,0 +1,61 @@
+.trainers {
+    
+    height: 535px;
+    background-color: #f5f5f5;
+    
+}
+.tituloTrai{
+    font-family: SF Pro Bold;
+    font-size: 20px;
+
+     
+}
+.subtituloTrai{
+    
+    font-size: 15px;
+    font-family: SF Pro Bold;
+}
+.parrafoTra{
+    font-family: SF Pro Regular;
+    font-size: 14px;
+}
+.izqAlin{
+    text-align: left;
+    padding: 52px 1px 100px 87px !important; 
+    border: 2px solid;
+}
+.num1{
+    font-size: 13px;
+    width: 4px;
+    height: 4px;
+    background-color: black;
+    color: white;
+    border-radius: 60% !important;
+    padding:1.6% !important;
+    font-family: SF pro Regular;
+    text-align:center !important;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textosT{
+    font-family: SF Pro Regular;
+    font-size: 14px;
+}
+
+.img41{
+    background-image: url(../assets/img/section/woman1.png);
+   /*  display: grid; */
+    height: 650px; 
+    width: 720px;
+    background-repeat: no-repeat;
+    /* border: 3px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+      top:270%;
+      left: 45%;
+}

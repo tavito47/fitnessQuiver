@@ -1,13 +1,13 @@
 
-import Header from './components/Header';
 import './app.css';
-import Footer from './components/Footer';
 import './fonts/fonts.css'
+import Header from './components/Header';
+import Footer from './components/Footer';
 import Vista from './components/Vista';
 import About from './components/About';
 import Work from './components/Work';
 import Pricing from './components/Pricing';
-
+import Trainers from './components/Trainers';
 function App() {
   return (
     <>
@@ -20,7 +20,7 @@ function App() {
     <Vista/>
     <About/>
     <Work/>
-
+    <Trainers/>
     <Pricing/>
     <Footer/>
     </>

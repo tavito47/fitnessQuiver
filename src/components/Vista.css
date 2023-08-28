@@ -1,28 +1,5 @@
 .contenido{
-    /* border: 5px solid rgba(33, 114, 33, 0.533); */
     height: 335px;
-    width: 1440;
+    
 }
 
-.containerV{
-    padding: 62px 0 87px 0 !important;
-}
-.cs{
-    width: 73px !important;
-    height: 73px !important;
-    margin-bottom: 36px !important;
-}
-.subT{
-    margin-bottom: 20px !important;
-}
-
-.cuadro{
-    border-right-width: 160px;
-    border-right-style: dashed;
-}
-/*alto 190px
-  ancho 175px*/
-/* .container1{
-    width: 175px;
-    height: 190px;
-} */
