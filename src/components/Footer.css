@@ -2,3 +2,44 @@
     background-color: black;
     height: 70px;
 }
+
+.logoFF{
+    width: 100px;
+    height: 15px;
+}
+.columna1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px !important;
+}
+.columna2{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    
+}
+.izq{
+    gap: 30px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconos{
+    display: flex;
+    gap: 34px !important;
+    width: 19px;
+    height: 19px;
+}
+.colores{
+    color: white;
+    font-size: 11px;
+    font-family: SF Pro Light;
+}
+
+.A2017{
+    color: white;
+    font-size: 11px;
+    font-family: SF Pro Light;
+}

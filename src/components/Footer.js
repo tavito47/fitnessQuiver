@@ -9,24 +9,27 @@ function Footer() {
   return (
     <section class="footerF">
       <div className="contaniner ">
-        <div className="row text-center ">
-
-          <div className="col-6">
+        <div className="row">
+          <div className="columna1 col">
             <div className="logoF">
-                <img src={pieLogo} />
-              <p class="text-white">2017</p>
+              <img className="logoFF" src={pieLogo} />
+            </div>
+            <div>
+              <p class="A2017">2017</p>
             </div>
           </div>
-          <div className="col-6">
+
+          <div className="columna2 col">
             <div className="izq">
-              <p class="text-white">Follow us @quiverfitness</p>
-              <a>
+              <p class="colores">Follow us @quiverfitness</p>
+              <a className="iconos">
                 <img src={fb} />
                 <img src={ins} />
                 <img src={tw} />
               </a>
             </div>
           </div>
+
         </div>
       </div>
     </section>

@@ -1,0 +1,16 @@
+.containerQues{
+    height: 467px;
+    background-color: #f5f5f5;
+}
+
+.tituloQues{
+    height: 132px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titQues{
+    font-size: 20px;
+    font-family: SF Pro bold;
+    
+}

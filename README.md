@@ -136,8 +136,11 @@
         Fitness? When will I receive payment? Do you charge a monthly membership
         fee? How can I search for specific workouts? How do I post workout
         videos and make sure they’re accurately searchable?
-        /*****************************SECTION 7 */ /SF Pro Display Bold 20
-        Contact /SF Pro Display Regular 16 We want to hear from you! Whether
+        /*****************************SECTION 7 */ 
+        /SF Pro Display Bold 20
+        Contact /SF Pro Display Regular 16 
+        
+        We want to hear from you! Whether
         you’ve got more questions, are interested in becoming a Trainer, or want
         to say hello, send us an email at info@quiverfitness.com or follow us on
         Facebook, Instagram, and Twitter: @quiverfitness.

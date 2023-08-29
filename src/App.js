@@ -8,6 +8,8 @@ import About from './components/About';
 import Work from './components/Work';
 import Pricing from './components/Pricing';
 import Trainers from './components/Trainers';
+import Questions from './components/Questions';
+import Contact from './components/Contact';
 function App() {
   return (
     <>
@@ -22,6 +24,8 @@ function App() {
     <Work/>
     <Trainers/>
     <Pricing/>
+    <Questions/>
+    <Contact/>
     <Footer/>
     </>
   );

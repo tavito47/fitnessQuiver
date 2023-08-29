@@ -1,0 +1,30 @@
+.containerContact{
+    height: 314px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloCot{
+    font-size: 20px;
+    font-family: SF Pro Bold;
+}
+
+.parrafoCo{
+    font-family: SF Pro Display Regular;
+}
+
+.boton{
+    font-size: 12px;
+    font-family: SF Pro Bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botonOfi{
+    background-color: #ffdf00 !important;
+    width: 180px !important;
+    height: 40px !important;
+    border: #ffdf00 !important;
+}
