@@ -1,4 +1,4 @@
-.contenido{
+/* .contenido{
     height: 335px;
     display: flex;
     justify-content: center;
@@ -12,3 +12,30 @@
     display: flex !important;
     align-items: center !important;
 }
+ */
+
+ .vistaV{
+    height: 334px;
+    margin: 0 !important;
+    padding: 0 !important;
+
+    display: flex;
+ }
+
+ .tituloV{
+    font-size: 19px;
+    font-family: SF Pro Bold;
+ }
+
+ .parrafoV{
+    font-size: 13px;
+    font-family: SF Pro Light;
+ }
+
+ .contenedorV{
+   margin: 0px 0 70px !important; 
+ }
+ .imagen{
+   width: 74px;
+   height: 74px;
+ }

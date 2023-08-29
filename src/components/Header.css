@@ -1,6 +1,6 @@
 .containerH{
-  height: 542px;
-  /* border: 5px solid #cd0abc;; */
+  height: 540px;
+/*   border: 2px solid #cd0abc;; */
 }
 .soyul{
   display: flex;
@@ -15,7 +15,7 @@
 }
 
 #apple{
-  margin-top: 54px !important;  
+  margin-top: 28.5px !important;  
 }
 #banner {
   background-image: url(../assets/img/navbar/baner.png);
@@ -36,18 +36,17 @@
   height: 23px;
 }
 
-.back {
-  
+.back { 
   background: transparent !important;
   position: absolute !important;
   top: 0;
-  width: 100%;
+  width: 70% !important;
   
-  margin: 27px 14% 0 14.5% !important;
+  margin: 27px 10% 0 14% !important;
 
 }
 
-.container-fluid {
+.container-fluid { 
   width: 100% !important;
   max-width: 990px;
   display: flex;
@@ -55,15 +54,17 @@
   align-items: center;
 }
 
-#revo {
+#revo { 
   font-family: SF Pro Bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  font-size: 40px;
+  margin: 170px 0 0 90px !important;
+  padding-left: 54px !important;
 }
 
-.container {
+.container { 
   margin: auto !important;
 }
 

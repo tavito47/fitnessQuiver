@@ -5,7 +5,7 @@ import img2 from "../assets/img/section/section1.2.png";
 import img3 from "../assets/img/section/section1.3.png";
 function Vista() {
   return (
-    <section className="contenido">
+    /*  <section className="contenido">
       <div className="containerV text-center">
         <div className="row">
           <div className="col-12 justific-content-center">
@@ -54,6 +54,55 @@ function Vista() {
             </div>
             
           </div>
+        </div>
+      </div>
+    </section> */
+
+    <section class="vistaV">
+      <div class="container text-center">
+        <div class="contenedorV row">
+
+          <div class="cuadros1 col">
+            <div class="icono1">
+              <img class="imagen" src={img1} />
+            </div>
+            <div class="contenidos">
+              <h5 class="tituloV">Dowload & Register</h5>
+              <span class="parrafoV">
+                Get the free iPhone app <br />
+                and sign up
+              </span>
+            </div>
+          </div>
+
+          <div class="cuadros2 col">
+            <div class="icono2">
+              <img class="imagen" src={img2} />
+            </div>
+            <div class="contenidos">
+              <h5 class="tituloV">Browse Workouts</h5>
+              <span class="parrafoV">Filter, favorite, and get a free preview</span>
+            </div>
+          </div>
+
+          <div class="cuadros3 col">
+
+            <div class="icono2">
+              <img class="imagen" src={img3} />
+            </div>
+            <div class="contenidos">
+              <div>
+                <h5 class="tituloV">Crush It</h5>
+              </div>
+              <div>
+                <span  class="parrafoV">Buy only the workouts you want <br/>
+                  and get ready to crush it.
+                </span>
+              </div>
+            </div>
+
+          </div>
+
         </div>
       </div>
     </section>

@@ -78,11 +78,12 @@ export default function Header() {
                   </h1>
                   <div id="apple">
                     <a class="navbar-brand" href="!#">
-                      <img className="aple" src={apple} alt="" />
+                      <img class="aple" src={apple} alt="" />
                     </a>
                   </div>
                 </div>
               </div>
+
             </div>
 
             <div class="col-6"></div>
