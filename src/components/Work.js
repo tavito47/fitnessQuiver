@@ -8,9 +8,11 @@ function Work() {
       <div class="containerWork ">
         <div class="row">
           <h5 class="tituloWork text-center">How it Works</h5>
-          <div class="col">
+          
+          <div class="col waper">
             <div class="parrafo1 text-right">
               <div class="">
+              <div class="num11"> 1 </div>
                 <p>
                   Download the free iOS app from <br />
                   the App Store. Register as a new <br />
@@ -19,6 +21,7 @@ function Work() {
               </div>
 
               <div>
+              <div class="num11"> 2 </div>
                 <p>
                   Browse by workout type and filter <br />
                   by difficulty level, length, muscles
@@ -28,6 +31,7 @@ function Work() {
               </div>
 
               <div>
+                <div class="num11"> 3 </div>
                 <p>
                   Preview any video for free, adding <br />
                   those that best fit your criteria to <br />
@@ -36,14 +40,17 @@ function Work() {
               </div>
             </div>
           </div>
+
           <div class="col">
             <div class="foto">
               <img src={phone} />
             </div>
           </div>
+
           <div class="col">
             <div class="parrafo2">
               <div class="num4">
+              <div class="num11"> 5 </div>
                 <p>
                   Purchase individual videos for
                   <br /> $2.50 each. A one-time payment
@@ -52,6 +59,7 @@ function Work() {
                 </p>
               </div>
               <div class="num5">
+              <div class="num11"> 6 </div>
                 <p>
                   Rank and review completed <br />
                   workouts, read more about the
@@ -65,6 +73,7 @@ function Work() {
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>

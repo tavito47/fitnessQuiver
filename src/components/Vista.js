@@ -61,48 +61,56 @@ function Vista() {
     <section class="vistaV">
       <div class="container text-center">
         <div class="contenedorV row">
-
           <div class="cuadros1 col">
-            <div class="icono1">
-              <img class="imagen" src={img1} />
-            </div>
-            <div class="contenidos">
-              <h5 class="tituloV">Dowload & Register</h5>
-              <span class="parrafoV">
-                Get the free iPhone app <br />
-                and sign up
-              </span>
+            <div class="cuadrito">
+              <div class="icono1">
+                <img class="imagen" src={img1} />
+              </div>
+              <div class="contenidos">
+                <h5 class="tituloV">Dowload & Register</h5>
+                <div class="separarV">
+                  <span class="parrafoV">
+                    Get the free iPhone app <br />
+                    and sign up
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="cuadros2 col">
-            <div class="icono2">
-              <img class="imagen" src={img2} />
-            </div>
-            <div class="contenidos">
-              <h5 class="tituloV">Browse Workouts</h5>
-              <span class="parrafoV">Filter, favorite, and get a free preview</span>
+            <div class="cuadrito2">
+              <div class="icono2">
+                <img class="imagen" src={img2} />
+              </div>
+              <div class="contenidos">
+                <h5 class="tituloV">Browse Workouts</h5>
+                <div class="separarV">
+                  <span class="parrafoV">
+                    Filter, favorite, and get a free preview
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
-
           <div class="cuadros3 col">
-
+          <div class="cuadrito3">
             <div class="icono2">
               <img class="imagen" src={img3} />
             </div>
             <div class="contenidos">
-              <div>
+              <div class="messi">
                 <h5 class="tituloV">Crush It</h5>
               </div>
-              <div>
-                <span  class="parrafoV">Buy only the workouts you want <br/>
+              <div class="separarV">
+                <span class="parrafoV">
+                  Buy only the workouts you want <br />
                   and get ready to crush it.
                 </span>
               </div>
             </div>
-
+            </div>
           </div>
-
         </div>
       </div>
     </section>

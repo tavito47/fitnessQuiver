@@ -68,6 +68,7 @@
     font-family: SF Pro Regular;
     text-align: left;
     
+    
  }
 .parrafoDer{
     font-size: 16px;
@@ -75,4 +76,14 @@
     margin-right: 213px !important;
     font-family: SF Pro Regular;
     text-align: left;
+}
+
+.derAbout{
+   /*  border: 2px solid ; */
+    padding: 30px 0 0 0 !important;
+}
+
+.izqAbout{
+    /* border: 2px solid ; */
+    padding: 30px 0 0 0 !important;
 }

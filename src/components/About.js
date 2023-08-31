@@ -4,7 +4,7 @@ import members from "../assets/img/section/section2.1.png";
 function About() {
   return (
     <section className="containerAb">
-      <div className="containerAb text-center">
+      <div className="containerAb ">
         <div className="row">
 
           <div className="col fondoDer">

@@ -43,18 +43,16 @@
     display: flex;
 }
 
-/* .num4{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+.num11{
+    padding: 0;
+    margin: 0;
+    width: 20px;
+    font-size: 13px;
+    font-family: SF pro Regular;
+    text-align:center !important;
+    border-radius: 60% !important;
+    height: 20px;
+    background-color: black;
+    color: white;
 }
-
-.num5
-    {
-      
-      }
-  
-
- */
 

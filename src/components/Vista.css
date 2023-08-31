@@ -33,9 +33,26 @@
  }
 
  .contenedorV{
-   margin: 0px 0 70px !important; 
+   margin: 23px 0 10px !important; 
  }
  .imagen{
    width: 74px;
    height: 74px;
+ }
+ 
+ .contenidos{
+   margin-top: 35px !important
+   ;
+ }
+
+ .separarV{
+   padding: 26px 0 20px 0 !important;
+ }
+
+ .cuadrito{
+   padding-left: 180px !important;
+ }
+ .cuadrito3{
+   padding-right: 180px !important;
+   
  }
